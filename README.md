@@ -1,0 +1,2 @@
+# goplugindemo
+go plugin demo.
