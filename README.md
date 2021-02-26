@@ -1,2 +1,6 @@
 # goplugindemo
-go plugin demo.
+This is a demo of go language plugin.
+# Usage
+    $ cd goplugindemo
+    $ make
+    $ ./main
